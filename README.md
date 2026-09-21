@@ -46,23 +46,10 @@ BSc Computer Science student at **Walter Sisulu University*** 💻 Building towa
 
 ## 📚 Currently Learning
 
-```text
-Computer Science
-       ↓
-Data Structures & Algorithms
-       ↓
-Software Engineering
-       ↓
-Web Development
-       ↓
-Databases & SQL
-       ↓
-Data Science & Machine Learning
-```
+Computer Science Data Structures & Algorithms Software Engineering Web Development Databases & SQL Data Science & Machine Learning
 
 I'm continuously improving my programming, problem-solving, and software development skills by building projects and solving coding problems.
 
----
 
 ## 🔨 Projects
 
@@ -115,26 +102,13 @@ I'm interested in opportunities related to:
 
 ## 📈 My Development Journey
 
-Python ────────────────┐
-C++ ───────────────────┤
-Java ──────────────────┤
-                       ↓
-Data Structures ─── Algorithms
-                       ↓
-                 Software Engineering
-                       ↓
-                 Web Development
-                       ↓
-                 Databases & SQL
-                       ↓
-             Data Science / ML
-                       ↓
-              Real-World Projects
-```
+Python           C++             Java                     ↓
+Data Structures Algorithms Software Engineering Web Development
+ Data Science / ML Real-World Projects
+
 
 My goal is to continuously turn what I learn into **real projects, practical experience, and useful software**.
 
----
 
 ## 🌐 Connect With Me
 

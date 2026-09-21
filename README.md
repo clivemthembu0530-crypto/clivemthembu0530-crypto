@@ -1,24 +1,28 @@
+
 # 👋 Hi, I'm Clive Mthembu
 
-### BSc Applied Mathematics Student | Aspiring Software Developer | Data Science Enthusiast
+### 💻 Computer Science Student | Software Engineering | Data Science
 
-I'm a BSc Applied Mathematics student at **Walter Sisulu University** with a strong interest in software development, data science, algorithms, and problem solving.
+I'm a Computer Science student passionate about **software engineering, problem solving, algorithms, and building real-world applications**.
 
-I enjoy turning mathematical and real-world problems into practical software solutions and I'm continuously building my skills through projects, programming challenges, and university work.
+I enjoy turning ideas into working software while continuously improving my programming, data structures, system design, and development skills.
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-🎓 BSc Applied Mathematics — Walter Sisulu University  
-💻 Interested in Software Development & Data Science  
-🧠 Currently learning Data Structures & Algorithms  
-🐍 Working with Python and C++  
-☕ Learning Java  
-🌐 Exploring Web Development  
-📊 Exploring Data Science & Machine Learning  
-🔧 Building projects and improving my GitHub  
-🎯 Working towards software development and data-related internships
+🎓 Computer Science Student  
+💻 Aspiring Software Engineer  
+🧠 Passionate about Data Structures & Algorithms  
+🐍 Python Developer  
+⚡ C++ Programmer  
+☕ Java Developer  
+🌐 Web Development  
+📊 Data Science & Machine Learning  
+🗄️ Databases & SQL  
+🐧 Learning Linux & Development Tools  
+🔧 Git & GitHub  
+🚀 Building projects and learning through practice
 
 ---
 
@@ -37,111 +41,193 @@ I enjoy turning mathematical and real-world problems into practical software sol
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-### 📊 Data & Machine Learning
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 📊 Data Science & Machine Learning
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### 🧰 Tools
+### 🔧 Tools & Technologies
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📚 Currently Learning
+## 🧠 Computer Science
 
-- Data Structures & Algorithms
+I'm currently developing my knowledge in:
+
+- Data Structures
+- Algorithms
 - Object-Oriented Programming
-- Database & SQL
-- Linux
-- Git & GitHub
+- Software Engineering
+- Database Systems
+- Computer Networks
+- Operating Systems
 - Web Development
+- Software Design
+- Problem Solving
+- Git & Version Controld
 - Data Science
 - Machine Learning
-- Problem Solving
 
 ---
 
-## 🚀 Projects
+## 🚀 Software Engineering
 
-### 🛒 E-Commerce Website
-A web application built while learning web development and Django.
+My focus is on learning how to build software properly, not just write code.
+
+### 🔹 Software Development
+
+- Writing clean and maintainable code
+- Object-Oriented Programming
+- Version control with Git
+- GitHub collaboration
+- Debugging
+- Testing
+- Documentation
+- Problem solving
+- Software design
+- Building scalable applications
+
+---
+
+## 📌 Featured Projects
+
+### 🛒 E-Commerce Application
+
+A web application focused on applying software development and web technologies to build a functional online shopping system.
 
 **Technologies:** Python • Django • HTML • CSS • JavaScript
 
 ---
 
-### 📊 Student Performance Analysis
-A data science project exploring student performance data using Python and machine learning techniques.
-
-**Technologies:** Python • Pandas • Scikit-Learn
-
----
-
 ### 🌱 Digital Agriculture Platform
-A project concept combining technology, agriculture and AI to help identify crop diseases and connect farmers with digital services.
+
+A technology project concept combining software development, agriculture and machine learning to help identify crop diseases and provide useful digital services.
 
 **Technologies:** Python • Machine Learning • Web Development
 
 ---
 
 ### 🎓 CampusConnect
-A student-focused platform designed to help students communicate, share information and find useful campus resources.
 
-**Technologies:** Web Development • Database
+A student-focused platform designed to help students communicate, share information and access useful campus resources.
+
+**Technologies:** JavaScript • HTML • CSS • Database
 
 ---
 
-## 🧠 Data Structures & Algorithms
+### 📊 Student Performance Machine Learning
 
-I'm actively practicing:
+A data science project exploring student performance data and applying machine learning techniques to analyse patterns and make predictions.
 
-- Arrays
-- Linked Lists
-- Stacks
-- Queues
-- Trees
-- Binary Search Trees
-- Hash Tables
-- Sorting Algorithms
-- Searching Algorithms
-- Recursion
-- Dynamic Programming
-- Big-O Analysis
+**Technologies:** Python • Pandas • NumPy • Scikit-Learn
+
+---
+
+## 📚 Currently Learning
+
+```text
+Computer Science
+      │
+      ├── Data Structures
+      ├── Algorithms
+      ├── Object-Oriented Programming
+      ├── Operating Systems
+      ├── Computer Networks
+      └── Databases
+
+Software Engineering
+      │
+      ├── Git & GitHub
+      ├── Software Design
+      ├── Testing
+      ├── Debugging
+      └── Clean Code
+
+Development
+      │
+      ├── Python
+      ├── C++
+      ├── Java
+      ├── JavaScript
+      ├── Django
+      └── Web Development
+
+Data
+      │
+      ├── Pandas
+      ├── NumPy
+      ├── Data Analysis
+      └── Machine Learning
+````
 
 ---
 
 ## 🎓 Education
 
-**Walter Sisulu University**
+### Walter Sisulu University
 
-BSc Applied Mathematics  
-2024 – 2027
+**Computer Science**
+
+I'm building a strong foundation in computer science while developing practical software engineering skills through projects and continuous programming practice.
+
+### Mathematical Background
+
+My background in **Applied Mathematics** strengthens my analytical thinking, problem-solving and quantitative reasoning skills.
 
 ---
 
 ## 🏆 Achievements
 
-🏆 Telkom Hackathon 2025  
-♟️ Chess Competition Achievements  
-🥋 Taekwondo Green Belt  
+🏆 Telkom Hackathon 2025
+♟️ Chess Competition Achievements
 📐 Mathematics Competition Experience
+🥋 Taekwondo Green Belt
 
 ---
 
-## 📈 My Goal
+## 🎯 My Goals
 
-> Build strong foundations in mathematics, computer science and software development while creating real-world projects that solve meaningful problems.
+My goal is to become a **strong Software Engineer** with a solid foundation in Computer Science.
+
+I'm working towards becoming proficient in:
+
+**Programming → Data Structures → Algorithms → Software Engineering → System Design → Real-World Applications**
+
+---
+
+## 📈 GitHub Journey
+
+This profile documents my journey as I:
+
+💻 Build software
+🧠 Solve programming problems
+📚 Learn Computer Science
+🚀 Create projects
+🔧 Improve my engineering skills
+📊 Explore Data Science
+🌐 Build web applications
+🤝 Learn professional development workflows
 
 ---
 
 ## 📫 Connect With Me
 
-🐙 GitHub: [@clivemthembu0530-crypto](https://github.com/clivemthembu0530-crypto)
+🐙 **GitHub:** [@clivemthembu0530-crypto](https://github.com/clivemthembu0530-crypto)
 
 ---
 
+### ⭐ Thanks for visiting my profile!
+
+I'm learning, building and improving one project at a time. 🚀
 ⭐ Feel free to explore my repositories and follow my journey as I learn, build and improve.

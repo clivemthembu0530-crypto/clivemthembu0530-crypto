@@ -11,18 +11,9 @@ I enjoy turning ideas into working software while continuously improving my prog
 
 ## 🧑‍💻 About Me
 
-🎓 Computer Science Student  
-💻 Aspiring Software Engineer  
-🧠 Passionate about Data Structures & Algorithms  
-🐍 Python Developer  
-⚡ C++ Programmer  
-☕ Java Developer  
-🌐 Web Development  
-📊 Data Science & Machine Learning  
-🗄️ Databases & SQL  
-🐧 Learning Linux & Development Tools  
-🔧 Git & GitHub  
-🚀 Building projects and learning through practice
+🎓 Computer Science Student  💻 Aspiring Software Engineer  🧠 Passionate about Data Structures & Algorithms  
+🐍 Python Developer  ⚡ C++ Programmer  ☕ Java Developer  🌐 Web Development  📊 Data Science & Machine Learning    
+🐧 Learning Linux & Development Tools  🔧 Git & GitHub  🚀 Building projects and learning through practice
 
 ---
 
@@ -65,50 +56,23 @@ I enjoy turning ideas into working software while continuously improving my prog
 
 I'm currently developing my knowledge in:
 
-- Data Structures
-- Algorithms
-- Object-Oriented Programming
-- Software Engineering
-- Database Systems
-- Computer Networks
-- Operating Systems
-- Web Development
-- Software Design
-- Problem Solving
-- Git & Version Controld
-- Data Science
-- Machine Learning
-
----
-
+- Data Structures,Algorithms,Object-Oriented Programming,Software Engineering,Database Systems,Computer Networks,Operating Systems
+- Web Development,Software Design,Problem Solving,Git & Version Controld,Data Science,Machine Learning
 ## 🚀 Software Engineering
 
 My focus is on learning how to build software properly, not just write code.
 
 ### 🔹 Software Development
 
-- Writing clean and maintainable code
-- Object-Oriented Programming
-- Version control with Git
-- GitHub collaboration
-- Debugging
-- Testing
-- Documentation
-- Problem solving
-- Software design
-- Building scalable applications
-
----
-
+- Writing clean and maintainable code,Object-Oriented Programming,Version control with Git,GitHub collaboration,Debugging
+- Testing,Documentation,Problem solving,Software design,Building scalable applications
 ## 📌 Featured Projects
 
 ### 🛒 E-Commerce Application
 
 A web application focused on applying software development and web technologies to build a functional online shopping system.
 
-**Technologies:** Python • Django • HTML • CSS • JavaScript
-
----
+**Technologies:** Python • java • HTML • CSS • JavaScript C++•
 
 ### 🌱 Digital Agriculture Platform
 
@@ -116,76 +80,43 @@ A technology project concept combining software development, agriculture and mac
 
 **Technologies:** Python • Machine Learning • Web Development
 
----
-
 ### 🎓 CampusConnect
 
 A student-focused platform designed to help students communicate, share information and access useful campus resources.
 
 **Technologies:** JavaScript • HTML • CSS • Database
 
----
-
 ### 📊 Student Performance Machine Learning
 
 A data science project exploring student performance data and applying machine learning techniques to analyse patterns and make predictions.
 
 **Technologies:** Python • Pandas • NumPy • Scikit-Learn
-
----
-
 ## 📚 Currently Learning
 
 ```text
 Computer Science
-      │
-      ├── Data Structures
-      ├── Algorithms
-      ├── Object-Oriented Programming
-      ├── Operating Systems
-      ├── Computer Networks
-      └── Databases
+Data Structures,Algorithms,Object-Oriented Programming,Operating Systems,Computer Networks, Databases
 
 Software Engineering
-      │
-      ├── Git & GitHub
-      ├── Software Design
-      ├── Testing
-      ├── Debugging
-      └── Clean Code
+Git & GitHub, Software Design,Testing,Debugging,Clean Code
 
 Development
-      │
-      ├── Python
-      ├── C++
-      ├── Java
-      ├── JavaScript
-      ├── Django
-      └── Web Development
+Python,C++,Java,JavaScript,Django,Web Development
 
 Data
-      │
-      ├── Pandas
-      ├── NumPy
-      ├── Data Analysis
-      └── Machine Learning
-````
-
----
+Pandas,NumPy,Data Analysis,Machine Learning
 
 ## 🎓 Education
 
 ### Walter Sisulu University
 
-**Computer Science**
+**CS student**
 
 I'm building a strong foundation in computer science while developing practical software engineering skills through projects and continuous programming practice.
 
 ### Mathematical Background
 
-My background in **Applied Mathematics** strengthens my analytical thinking, problem-solving and quantitative reasoning skills.
-
----
+My background in **Mathematics** strengthens my analytical thinking, problem-solving and quantitative reasoning skills.
 
 ## 🏆 Achievements
 
@@ -210,22 +141,12 @@ I'm working towards becoming proficient in:
 
 This profile documents my journey as I:
 
-💻 Build software
-🧠 Solve programming problems
-📚 Learn Computer Science
-🚀 Create projects
-🔧 Improve my engineering skills
-📊 Explore Data Science
-🌐 Build web applications
-🤝 Learn professional development workflows
-
----
+💻 Build software🧠 Solve programming problems📚 Learn Computer Science🚀 Create projects🔧 Improve my engineering skills📊 Explore Data Science🌐 Build web applications🤝 Learn professional development workflows
 
 ## 📫 Connect With Me
 
-🐙 **GitHub:** [@clivemthembu0530-crypto](https://github.com/clivemthembu0530-crypto)
-
----
+**GitHub:** [@clivemthembu0530-crypto](https://github.com/clivemthembu0530-crypto)
+**linkedin:**https://www.linkedin.com/in/clive-mthembu-982790269
 
 ### ⭐ Thanks for visiting my profile!
 

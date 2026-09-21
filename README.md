@@ -1,154 +1,157 @@
-
 # 👋 Hi, I'm Clive Mthembu
 
-### 💻 Computer Science Student | Software Engineering | Data Science
+### 💻 Computer Science Student | Aspiring Software Engineer | Data Scientist
 
-I'm a Computer Science student passionate about **software engineering, problem solving, algorithms, and building real-world applications**.
+I'm a **BSc Computer Science student at Walter Sisulu University** with a strong interest in **Computer Science, Software Engineering, Data Structures & Algorithms, and Data Science**.
 
-I enjoy turning ideas into working software while continuously improving my programming, data structures, system design, and development skills.
+I'm building my skills through university coursework, programming projects, problem-solving, hackathons, and continuous self-learning.
 
----
+## 🚀 About Me
 
-## 🧑‍💻 About Me
+BSc Computer Science student at **Walter Sisulu University*** 💻 Building toward a career in **Computer Science & Software Engineering*** 🧠 Interested in **Data Structures, Algorithms, Object-Oriented Programming and System Design*** 📊 Interested in **Data Science & Machine Learning*** 🌐 Learning **Web Development*** 🐍 Programming with **Python*** ⚙️ Programming with **C++**
+* ☕ Learning **Java*** 🗃️ Learning **Databases** * 🐙 Using **Git & GitHub** for version control* 🚀 Building projects to turn theory into practical skills
 
-🎓 Computer Science Student  💻 Aspiring Software Engineer  🧠 Passionate about Data Structures & Algorithms  
-🐍 Python Developer  ⚡ C++ Programmer  ☕ Java Developer  🌐 Web Development  📊 Data Science & Machine Learning    
-🐧 Learning Linux & Development Tools  🔧 Git & GitHub  🚀 Building projects and learning through practice
-
----
-
-## 🛠️ Tech Stack
+## 🛠️ Technologies & Tools
 
 ### 💻 Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
 ### 🌐 Web Development
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-### 🗄️ Databases
+### 🧠 Computer Science
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+* Data Structures & Algorithms * Object-Oriented Programming * Problem Solving * Software Engineering * Operating Systems
+* Computer Networks * Databases * Algorithms & Complexity
 
-### 📊 Data Science & Machine Learning
+### 📊 Data & Machine Learning
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+* Python * Pandas * NumPy * Matplotlib * Scikit-learn * Data Analysis * Machine Learning Fundamentals
 
-### 🔧 Tools & Technologies
+### 🧰 Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge\&logo=visual-studio\&logoColor=white)
 
 ---
 
-## 🧠 Computer Science
-
-I'm currently developing my knowledge in:
-
-- Data Structures,Algorithms,Object-Oriented Programming,Software Engineering,Database Systems,Computer Networks,Operating Systems
-- Web Development,Software Design,Problem Solving,Git & Version Controld,Data Science,Machine Learning
-## 🚀 Software Engineering
-
-My focus is on learning how to build software properly, not just write code.
-
-### 🔹 Software Development
-
-- Writing clean and maintainable code,Object-Oriented Programming,Version control with Git,GitHub collaboration,Debugging
-- Testing,Documentation,Problem solving,Software design,Building scalable applications
-## 📌 Featured Projects
-
-### 🛒 E-Commerce Application
-
-A web application focused on applying software development and web technologies to build a functional online shopping system.
-
-**Technologies:** Python • java • HTML • CSS • JavaScript C++•
-
-### 🌱 Digital Agriculture Platform
-
-A technology project concept combining software development, agriculture and machine learning to help identify crop diseases and provide useful digital services.
-
-**Technologies:** Python • Machine Learning • Web Development
-
-### 🎓 CampusConnect
-
-A student-focused platform designed to help students communicate, share information and access useful campus resources.
-
-**Technologies:** JavaScript • HTML • CSS • Database
-
-### 📊 Student Performance Machine Learning
-
-A data science project exploring student performance data and applying machine learning techniques to analyse patterns and make predictions.
-
-**Technologies:** Python • Pandas • NumPy • Scikit-Learn
 ## 📚 Currently Learning
 
 ```text
 Computer Science
-Data Structures,Algorithms,Object-Oriented Programming,Operating Systems,Computer Networks, Databases
-
+       ↓
+Data Structures & Algorithms
+       ↓
 Software Engineering
-Git & GitHub, Software Design,Testing,Debugging,Clean Code
+       ↓
+Web Development
+       ↓
+Databases & SQL
+       ↓
+Data Science & Machine Learning
+```
 
-Development
-Python,C++,Java,JavaScript,Django,Web Development
-
-Data
-Pandas,NumPy,Data Analysis,Machine Learning
-
-## 🎓 Education
-
-### Walter Sisulu University
-
-**CS student**
-
-I'm building a strong foundation in computer science while developing practical software engineering skills through projects and continuous programming practice.
-
-### Mathematical Background
-
-My background in **Mathematics** strengthens my analytical thinking, problem-solving and quantitative reasoning skills.
-
-## 🏆 Achievements
-
-🏆 Telkom Hackathon 2025
-♟️ Chess Competition Achievements
-📐 Mathematics Competition Experience
-🥋 Taekwondo Green Belt
+I'm continuously improving my programming, problem-solving, and software development skills by building projects and solving coding problems.
 
 ---
 
-## 🎯 My Goals
+## 🔨 Projects
 
-My goal is to become a **strong Software Engineer** with a solid foundation in Computer Science.
+### 🛒 E-Commerce Web Application
 
-I'm working towards becoming proficient in:
+A web application focused on building practical web-development and backend skills.
 
-**Programming → Data Structures → Algorithms → Software Engineering → System Design → Real-World Applications**
+**Technologies:** Python • Django • HTML • CSS • JavaScript • SQLite
 
 ---
 
-## 📈 GitHub Journey
+### 🌾 Digital Agriculture Marketplace
 
-This profile documents my journey as I:
+A project concept combining technology, agriculture, marketplaces, and machine learning.
 
-💻 Build software🧠 Solve programming problems📚 Learn Computer Science🚀 Create projects🔧 Improve my engineering skills📊 Explore Data Science🌐 Build web applications🤝 Learn professional development workflows
+**Areas:** Web Development • Data Science • Machine Learning
 
-## 📫 Connect With Me
+---
 
-**GitHub:** [@clivemthembu0530-crypto](https://github.com/clivemthembu0530-crypto)
-**linkedin:**https://www.linkedin.com/in/clive-mthembu-982790269
+### 🧠 Data Structures & Algorithms
 
-### ⭐ Thanks for visiting my profile!
+A collection of implementations and practice problems covering fundamental computer science concepts.
 
-I'm learning, building and improving one project at a time. 🚀
-⭐ Feel free to explore my repositories and follow my journey as I learn, build and improve.
+**Topics include:**
+* Arrays * Linked Lists * Stacks * Queues * Binary Search Trees * Hashing * Searching * Sorting * Algorithms
+* Big-O Analysis
+* 
+### 📊 Data Science & Machine Learning
+
+Projects and experiments involving data analysis and machine learning.
+
+**Technologies:** Python • Pandas • NumPy • Scikit-learn • Matplotlib
+
+---
+
+## 🏆 Achievements & Activities
+
+* 🏆 Telkom Hackathon 2025
+* ♟️ Chess competitions and tournaments
+* 🧮 Mathematics competitions
+* 💻 Programming and software development projects
+---
+
+## 🎯 Career Interests
+
+I'm interested in opportunities related to:
+
+* 💻 Software Engineering * 🧑‍💻 Software Development * 🧠 Computer Science * 📊 Data Science * 🤖 Machine Learning
+* 🌐 Web Development * 🗄️ Database Development * 🔐 Technology & Systems
+
+## 📈 My Development Journey
+
+Python ────────────────┐
+C++ ───────────────────┤
+Java ──────────────────┤
+                       ↓
+Data Structures ─── Algorithms
+                       ↓
+                 Software Engineering
+                       ↓
+                 Web Development
+                       ↓
+                 Databases & SQL
+                       ↓
+             Data Science / ML
+                       ↓
+              Real-World Projects
+```
+
+My goal is to continuously turn what I learn into **real projects, practical experience, and useful software**.
+
+---
+
+## 🌐 Connect With Me
+
+💼 **LinkedIn:**
+[linkedin.com/in/clive-mthembu-982790269](https://www.linkedin.com/in/clive-mthembu-982790269)
+
+🐙 **GitHub:**
+[github.com/clivemthembu0530-crypto](https://github.com/clivemthembu0530-crypto)
+
+---
+
+## ⚡ Fun Fact
+
+> I study Mathematics, build software, solve problems, and occasionally wonder why my code worked five minutes ago. 😅
+
+---
+
+⭐ **Thanks for visiting my profile!**
+
+If you're interested in **Computer Science, Software Engineering, Data Science, or technology**, feel free to connect.
